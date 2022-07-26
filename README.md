@@ -2,7 +2,7 @@
 
 I wrote a blog on Medium # EDA WITH PANDAS PROFILING  (https://medium.com/@david-akinyemi)
 
-Here is a real example using Automobile data set
+Here is a real example using Automobile data set.
 
 Pandas profiling is an open source Python module with which we can easily carry out an Exploratory Data Analysis with few code lines.
 
